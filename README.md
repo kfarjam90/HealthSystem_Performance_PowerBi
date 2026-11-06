@@ -1,4 +1,5 @@
 # UK and Global Health System Performance
+![](image.png)
 ### Power BI analysis of pandemic pressures and recovery, 2018–2024
 
 **32 countries · 212 fictional health system regions · 7 report pages · 45 DAX measures**
