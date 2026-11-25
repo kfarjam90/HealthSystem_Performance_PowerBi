@@ -2,7 +2,7 @@
 ![](image.png)
 ### Power BI analysis of pandemic pressures and recovery, 2018–2024
 
-**32 countries · 212 fictional health system regions · 7 report pages · 45 DAX measures**
+**32 countries · 212 fictional health system regions · 7 report pages · 45 DAX measures** 
 
 A Power BI portfolio project developed for the **Onyx Data #dataDNA Challenge**. The report examines how health systems absorbed the pandemic shock, how elective care recovered, and how the United Kingdom compares with the EU member countries included in the dataset.
 
